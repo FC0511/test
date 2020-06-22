@@ -1,5 +1,8 @@
 <template>
-    <div>Money</div>
+    <div>
+        <div>Money2</div>
+        <Nav/>
+    </div>
 </template>
 
 <script lang="ts">
@@ -11,3 +14,4 @@
 <style lang="scss" scoped>
 
 </style>
+
