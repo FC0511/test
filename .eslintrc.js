@@ -13,7 +13,7 @@ module.exports = {
         '@typescript-eslint/no-var-requires': 0
     },
     parserOptions: {
-        parser: '@typescript-eslint/parser'
+        // parser: '@typescript-eslint/parser'
     },
     overrides: [
         {
